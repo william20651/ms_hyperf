@@ -66,11 +66,3 @@ curl --no-check-certificate --quiet \
  2. nacos : http://mytest.net:8848/
 
 
-
-
-
-
-    
-    
-    
-
