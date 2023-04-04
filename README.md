@@ -65,3 +65,4 @@ curl --no-check-certificate --quiet \
  1. zipkin : http://mytest.net:9411/zipkin
  2. nacos : http://mytest.net:8848/
 
+
